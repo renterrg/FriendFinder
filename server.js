@@ -21,9 +21,7 @@ app.listen(PORT, function(){
 });
 
 
-		app.get("/api/friends", function(req, res){
-		res.json(friendsData);
-	});
+
 
 
 
