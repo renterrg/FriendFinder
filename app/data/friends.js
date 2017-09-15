@@ -1,7 +1,7 @@
 var friendsArray = [
 	{
 		name: "Josh",
-		photo: "n/a",
+		photo: "https://www.superherodb.com/pictures2/portraits/10/100/113.jpg",
 		scores: [
 		"5",
 		"2",
@@ -17,7 +17,7 @@ var friendsArray = [
 	},
 	{
 		name: "James",
-		photo: "n/a",
+		photo: "https://www.superherodb.com/pictures2/portraits/10/100/10422.jpg",
 		scores: [
 		"5",
 		"1",
